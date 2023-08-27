@@ -189,7 +189,7 @@ def main_apv():
 
         tks = 'Dear%20Admin,%20Please%20Apporved%20My%20Key%20To%20Premium✓✓%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
 
-        os.system('am start https://wa.me/+8801735787710?text=' + tks)
+        os.system('am start https://wa.me/+8801947343586?text=' + tks)
 
 logo ="""       
  ██████╗ ███████╗███╗   ███╗ █████╗ ███╗   ██╗
